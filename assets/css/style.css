@@ -1641,6 +1641,7 @@ Icon for all respective meta
 }
 
 .preload-placeholder {
+	background: none;
 	left: 0;
 	margin: 0;
 	text-align: center;
