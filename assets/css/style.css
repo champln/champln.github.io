@@ -1095,8 +1095,8 @@ Resume Timeline
     padding-right: 5px;
     padding-left: 5px;
     min-height: 235px;
-    margin-left: 10px;
-    margin-right: 5px;
+    margin-left: auto;
+    margin-right: auto;
     max-height: auto; 
   
 }lor;
