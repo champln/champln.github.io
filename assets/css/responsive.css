@@ -398,13 +398,18 @@
 
 /* Large devices (large desktops, 1280px and up) */
 @media screen and (min-width:1280px) and (max-width:1599px) {
+	.portfolio-item {
+		margin-left: 195px;
+		margin-right:5px;
+	}
 	
 }
 
 /* Extra Large devices (large desktops, 1600px and up) */
 @media screen and (min-width:1600px) and (max-width:1920px) {
-.portfolio-item {
+        .portfolio-item {
 		margin-left: 195px;
+		margin-right:5px;
 	}
 	.personal-info{
 		padding-right:180px;
