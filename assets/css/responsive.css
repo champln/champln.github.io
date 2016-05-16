@@ -403,6 +403,9 @@
 
 /* Extra Large devices (large desktops, 1600px and up) */
 @media screen and (min-width:1600px) and (max-width:1920px) {
+	.portfolio-item {
+		margin-left: 195px;
+	}
 	.personal-info{
 		padding-right:180px;
 	}
